@@ -11,6 +11,8 @@
 # hlsearch on (H) or off (h):
 ~H
 # Command Line History (newest to oldest):
+:qa
+|2,0,1661432202,,"qa"
 :wq!
 |2,0,1661431951,,"wq!"
 
@@ -25,22 +27,38 @@
 # Registers:
 
 # File marks:
-'0  8  32  ~/app.py
-|4,48,8,32,1661431951,"~/app.py"
-'1  8  34  ~/app.py
-|4,49,8,34,1661431198,"~/app.py"
+'0  1  0  ~/.git/COMMIT_EDITMSG
+|4,48,1,0,1661432202,"~/.git/COMMIT_EDITMSG"
+'1  8  32  ~/app.py
+|4,49,8,32,1661431951,"~/app.py"
+'2  8  34  ~/app.py
+|4,50,8,34,1661431198,"~/app.py"
 
 # Jumplist (newest first):
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1661432202,"~/.git/COMMIT_EDITMSG"
 -'  8  32  ~/app.py
 |4,39,8,32,1661431951,"~/app.py"
+-'  8  32  ~/app.py
+|4,39,8,32,1661431951,"~/app.py"
+-'  8  34  ~/app.py
+|4,39,8,34,1661431198,"~/app.py"
 -'  8  34  ~/app.py
 |4,39,8,34,1661431198,"~/app.py"
 -'  1  0  ~/app.py
 |4,39,1,0,1661431177,"~/app.py"
 -'  1  0  ~/app.py
 |4,39,1,0,1661431177,"~/app.py"
+-'  1  0  ~/app.py
+|4,39,1,0,1661431177,"~/app.py"
+-'  1  0  ~/app.py
+|4,39,1,0,1661431177,"~/app.py"
 
 # History of marks within files (newest to oldest):
+
+> ~/.git/COMMIT_EDITMSG
+	*	1661432194	0
+	"	1	0
 
 > ~/app.py
 	*	1661431946	0
